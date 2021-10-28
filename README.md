@@ -34,5 +34,9 @@ Despu√©s de haber importado la base de datos ya es posible ejecutar la aplicaci√
 ![Gestion Clientes](https://user-images.githubusercontent.com/85718854/139276771-6311d3be-d70e-4418-809d-b1f7c567386a.png)
 
 ![Vista Tecnico](https://user-images.githubusercontent.com/85718854/139276809-bb862c0f-712e-4a2c-85e4-c43f33782a4e.png)
-  
-  
+
+![Registrar Equipo](https://user-images.githubusercontent.com/85718854/139279256-56666283-457e-4ad6-b708-cf690a1de0f6.png)
+
+![Grafica estatus](https://user-images.githubusercontent.com/85718854/139279273-463dd454-6949-49ba-b824-90998ef462c7.png)
+
+![Grafica de marcas](https://user-images.githubusercontent.com/85718854/139279291-4f75919a-6704-4de0-81bf-0e9e81f815b2.png)
